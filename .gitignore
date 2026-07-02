@@ -1,0 +1,28 @@
+# Compiled binaries
+test_reduced
+examples/minimal
+examples/forms
+examples/table_dialog
+examples/dashboard
+examples/editor
+examples/tinyvim
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+
+# Editor temporaries
+*~
+*.swp
+*.swo
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
